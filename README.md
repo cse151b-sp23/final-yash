@@ -11,6 +11,7 @@
 - Multiple Linear Regression
     - Initial Model using Multiple linear regression ipynb file and pdf file
 - Saved Models
+    - The tensor is in the form tensor[hour, month, week, day, origin_stand, call_type]
     - Saved Models for velocity and duration predictor
     - Being a two stage model, both models need to be loaded and used
     - The initial tensor needs to be passed into velocity predictor
